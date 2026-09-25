@@ -1,0 +1,9 @@
+[project]
+name = "skill-equivalence"
+version = "0.1.0"
+description = "技能标准课程等价管理的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
